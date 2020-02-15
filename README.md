@@ -1,24 +1,17 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Se uso delayed_jobs
 
-Things you may want to cover:
+1.- Rails console
+temp = Temperatura.find(1)
+LeerTemperaturasJob.perform_later(temp)
 
-* Ruby version
+2.- En otra consola ejecutar
+rails jobs:work
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+3.- Las urls para probrar
+http://127.0.0.1:3000/temperatura_mas_baja
+http://127.0.0.1:3000/obtener_historicos_por_temperatura_desc
+http://127.0.0.1:3000/obtener_historicos_por_temperatura
+http://127.0.0.1:3000/obtener_historicos_por_registro_desc
+http://127.0.0.1:3000/obtener_historicos_por_registro
