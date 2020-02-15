@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  maxima: MyString
+  minima: MyString
+  registro: 2020-02-15 13:55:59
+
+two:
+  maxima: MyString
+  minima: MyString
+  registro: 2020-02-15 13:55:59

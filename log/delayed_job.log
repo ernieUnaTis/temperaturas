@@ -1,0 +1,225 @@
+# Logfile created on 2020-02-15 13:08:07 -0600 by logger.rb/56815
+I, [2020-02-15T13:14:46.377392 #28224]  INFO -- : 2020-02-15T13:14:46-0600: [Worker(host:latveria pid:28224)] Starting job worker
+I, [2020-02-15T13:14:51.643959 #28224]  INFO -- : 2020-02-15T13:14:51-0600: [Worker(host:latveria pid:28224)] Exiting...
+I, [2020-02-15T13:14:52.991277 #28224]  INFO -- : 2020-02-15T13:14:52-0600: [Worker(host:latveria pid:28224)] Exiting...
+I, [2020-02-15T13:14:53.821952 #28224]  INFO -- : 2020-02-15T13:14:53-0600: [Worker(host:latveria pid:28224)] Exiting...
+I, [2020-02-15T13:14:54.041476 #28224]  INFO -- : 2020-02-15T13:14:54-0600: [Worker(host:latveria pid:28224)] Exiting...
+I, [2020-02-15T13:15:10.480696 #28224]  INFO -- : 2020-02-15T13:15:10-0600: [Worker(host:latveria pid:28224)] Exiting...
+I, [2020-02-15T13:15:10.705353 #28224]  INFO -- : 2020-02-15T13:15:10-0600: [Worker(host:latveria pid:28224)] Exiting...
+I, [2020-02-15T13:15:10.881550 #28224]  INFO -- : 2020-02-15T13:15:10-0600: [Worker(host:latveria pid:28224)] Exiting...
+I, [2020-02-15T13:15:11.067692 #28224]  INFO -- : 2020-02-15T13:15:11-0600: [Worker(host:latveria pid:28224)] Exiting...
+I, [2020-02-15T13:15:45.294499 #28224]  INFO -- : 2020-02-15T13:15:45-0600: [Worker(host:latveria pid:28224)] Exiting...
+I, [2020-02-15T13:17:04.779031 #28692]  INFO -- : 2020-02-15T13:17:04-0600: [Worker(host:latveria pid:28692)] Starting job worker
+I, [2020-02-15T13:18:29.858255 #28692]  INFO -- : 2020-02-15T13:18:29-0600: [Worker(host:latveria pid:28692)] Exiting...
+I, [2020-02-15T13:19:04.114680 #28692]  INFO -- : 2020-02-15T13:19:04-0600: [Worker(host:latveria pid:28692)] Exiting...
+I, [2020-02-15T13:19:04.442100 #28692]  INFO -- : 2020-02-15T13:19:04-0600: [Worker(host:latveria pid:28692)] Exiting...
+I, [2020-02-15T13:19:04.622460 #28692]  INFO -- : 2020-02-15T13:19:04-0600: [Worker(host:latveria pid:28692)] Exiting...
+I, [2020-02-15T13:19:04.808460 #28692]  INFO -- : 2020-02-15T13:19:04-0600: [Worker(host:latveria pid:28692)] Exiting...
+I, [2020-02-15T13:19:31.357820 #28931]  INFO -- : 2020-02-15T13:19:31-0600: [Worker(host:latveria pid:28931)] Starting job worker
+I, [2020-02-15T13:20:05.000584 #28931]  INFO -- : 2020-02-15T13:20:05-0600: [Worker(host:latveria pid:28931)] Exiting...
+I, [2020-02-15T13:20:08.272637 #29018]  INFO -- : 2020-02-15T13:20:08-0600: [Worker(host:latveria pid:29018)] Starting job worker
+I, [2020-02-15T13:20:34.045708 #29018]  INFO -- : 2020-02-15T13:20:34-0600: [Worker(host:latveria pid:29018)] Exiting...
+I, [2020-02-15T13:20:36.215837 #29054]  INFO -- : 2020-02-15T13:20:36-0600: [Worker(host:latveria pid:29054)] Starting job worker
+I, [2020-02-15T13:22:42.493910 #29054]  INFO -- : 2020-02-15T13:22:42-0600: [Worker(host:latveria pid:29054)] Exiting...
+I, [2020-02-15T13:23:12.302407 #29284]  INFO -- : 2020-02-15T13:23:12-0600: [Worker(host:latveria pid:29284)] Starting job worker
+I, [2020-02-15T13:32:05.539132 #30358]  INFO -- : 2020-02-15T13:32:05-0600: [Worker(host:latveria pid:30358)] Starting job worker
+I, [2020-02-15T13:32:05.581405 #30358]  INFO -- : 2020-02-15T13:32:05-0600: [Worker(host:latveria pid:30358)] Job LeerTemperaturasJob [33387c01-5908-4bfb-b0e5-5c129333eb83] from DelayedJob(default) with arguments: [] (id=1) (queue=default) RUNNING
+I, [2020-02-15T13:32:05.615703 #30358]  INFO -- : 2020-02-15T13:32:05-0600: [Worker(host:latveria pid:30358)] Job LeerTemperaturasJob [33387c01-5908-4bfb-b0e5-5c129333eb83] from DelayedJob(default) with arguments: [] (id=1) (queue=default) COMPLETED after 0.0332
+I, [2020-02-15T13:32:05.633880 #30358]  INFO -- : 2020-02-15T13:32:05-0600: [Worker(host:latveria pid:30358)] Job LeerTemperaturasJob [cc7cc757-60c1-48b4-b89e-cb8c3036d546] from DelayedJob(default) with arguments: [] (id=2) (queue=default) RUNNING
+I, [2020-02-15T13:32:05.660659 #30358]  INFO -- : 2020-02-15T13:32:05-0600: [Worker(host:latveria pid:30358)] Job LeerTemperaturasJob [cc7cc757-60c1-48b4-b89e-cb8c3036d546] from DelayedJob(default) with arguments: [] (id=2) (queue=default) COMPLETED after 0.0266
+I, [2020-02-15T13:32:05.662024 #30358]  INFO -- : 2020-02-15T13:32:05-0600: [Worker(host:latveria pid:30358)] 2 jobs processed at 16.2936 j/s, 0 failed
+I, [2020-02-15T13:32:55.429462 #30402]  INFO -- : 2020-02-15T13:32:55-0600: [Worker(host:latveria pid:30402)] Starting job worker
+I, [2020-02-15T13:32:55.464542 #30402]  INFO -- : 2020-02-15T13:32:55-0600: [Worker(host:latveria pid:30402)] Job LeerTemperaturasJob [f2efd8ed-c8ba-4923-8126-8e3027f57260] from DelayedJob(default) with arguments: [] (id=3) (queue=default) RUNNING
+E, [2020-02-15T13:32:55.470526 #30402] ERROR -- : 2020-02-15T13:32:55-0600: [Worker(host:latveria pid:30402)] Job LeerTemperaturasJob [f2efd8ed-c8ba-4923-8126-8e3027f57260] from DelayedJob(default) with arguments: [] (id=3) (queue=default) FAILED (0 prior attempts) with SyntaxError: /home/ernesto/ProyectosRuby/temperaturas/app/jobs/leer_temperaturas_job.rb:9: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+thermap.org/data/2.5/weather?q=Monterrey&appid=3fc82b390a874
+                              ^
+/home/ernesto/ProyectosRuby/temperaturas/app/jobs/leer_temperaturas_job.rb:9: syntax error, unexpected tIDENTIFIER, expecting keyword_end
+c82b390a874c7c422510d5488b0722)
+                              ^
+I, [2020-02-15T13:32:55.487006 #30402]  INFO -- : 2020-02-15T13:32:55-0600: [Worker(host:latveria pid:30402)] 1 jobs processed at 17.4241 j/s, 1 failed
+I, [2020-02-15T13:33:01.497153 #30402]  INFO -- : 2020-02-15T13:33:01-0600: [Worker(host:latveria pid:30402)] Job LeerTemperaturasJob [f2efd8ed-c8ba-4923-8126-8e3027f57260] from DelayedJob(default) with arguments: [] (id=3) (queue=default) RUNNING
+E, [2020-02-15T13:33:01.498683 #30402] ERROR -- : 2020-02-15T13:33:01-0600: [Worker(host:latveria pid:30402)] Job LeerTemperaturasJob [f2efd8ed-c8ba-4923-8126-8e3027f57260] from DelayedJob(default) with arguments: [] (id=3) (queue=default) FAILED (1 prior attempts) with SyntaxError: /home/ernesto/ProyectosRuby/temperaturas/app/jobs/leer_temperaturas_job.rb:9: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+thermap.org/data/2.5/weather?q=Monterrey&appid=3fc82b390a874
+                              ^
+/home/ernesto/ProyectosRuby/temperaturas/app/jobs/leer_temperaturas_job.rb:9: syntax error, unexpected tIDENTIFIER, expecting keyword_end
+c82b390a874c7c422510d5488b0722)
+                              ^
+I, [2020-02-15T13:33:01.515418 #30402]  INFO -- : 2020-02-15T13:33:01-0600: [Worker(host:latveria pid:30402)] 1 jobs processed at 27.0223 j/s, 1 failed
+I, [2020-02-15T13:33:17.253845 #30402]  INFO -- : 2020-02-15T13:33:17-0600: [Worker(host:latveria pid:30402)] Exiting...
+I, [2020-02-15T13:33:20.473457 #30468]  INFO -- : 2020-02-15T13:33:20-0600: [Worker(host:latveria pid:30468)] Starting job worker
+I, [2020-02-15T13:33:22.528440 #30468]  INFO -- : 2020-02-15T13:33:22-0600: [Worker(host:latveria pid:30468)] Job LeerTemperaturasJob [f2efd8ed-c8ba-4923-8126-8e3027f57260] from DelayedJob(default) with arguments: [] (id=3) (queue=default) RUNNING
+E, [2020-02-15T13:33:22.560248 #30468] ERROR -- : 2020-02-15T13:33:22-0600: [Worker(host:latveria pid:30468)] Job LeerTemperaturasJob [f2efd8ed-c8ba-4923-8126-8e3027f57260] from DelayedJob(default) with arguments: [] (id=3) (queue=default) FAILED (2 prior attempts) with NoMethodError: undefined method `hostname' for #<String:0x000000049f1010>
+E, [2020-02-15T13:33:22.560359 #30468] ERROR -- : 2020-02-15T13:33:22-0600: [Worker(host:latveria pid:30468)] Job LeerTemperaturasJob [f2efd8ed-c8ba-4923-8126-8e3027f57260] from DelayedJob(default) with arguments: [] (id=3) (queue=default) FAILED permanently because of 3 consecutive failures
+I, [2020-02-15T13:33:22.588444 #30468]  INFO -- : 2020-02-15T13:33:22-0600: [Worker(host:latveria pid:30468)] 1 jobs processed at 11.3438 j/s, 1 failed
+I, [2020-02-15T13:33:53.124777 #30468]  INFO -- : 2020-02-15T13:33:53-0600: [Worker(host:latveria pid:30468)] Job LeerTemperaturasJob [6b5424cf-813d-4c39-9e0c-2dac0fbf1fb7] from DelayedJob(default) with arguments: [] (id=4) (queue=default) RUNNING
+E, [2020-02-15T13:33:53.132070 #30468] ERROR -- : 2020-02-15T13:33:53-0600: [Worker(host:latveria pid:30468)] Job LeerTemperaturasJob [6b5424cf-813d-4c39-9e0c-2dac0fbf1fb7] from DelayedJob(default) with arguments: [] (id=4) (queue=default) FAILED (0 prior attempts) with NoMethodError: undefined method `hostname' for #<String:0x00000001bdb860>
+I, [2020-02-15T13:33:53.146929 #30468]  INFO -- : 2020-02-15T13:33:53-0600: [Worker(host:latveria pid:30468)] 1 jobs processed at 21.1240 j/s, 1 failed
+I, [2020-02-15T13:33:57.711293 #30535]  INFO -- : 2020-02-15T13:33:57-0600: [Worker(host:latveria pid:30535)] Starting job worker
+I, [2020-02-15T13:33:59.164554 #30535]  INFO -- : 2020-02-15T13:33:59-0600: [Worker(host:latveria pid:30535)] Job LeerTemperaturasJob [6b5424cf-813d-4c39-9e0c-2dac0fbf1fb7] from DelayedJob(default) with arguments: [] (id=4) (queue=default) RUNNING
+E, [2020-02-15T13:33:59.178172 #30535] ERROR -- : 2020-02-15T13:33:59-0600: [Worker(host:latveria pid:30535)] Job LeerTemperaturasJob [6b5424cf-813d-4c39-9e0c-2dac0fbf1fb7] from DelayedJob(default) with arguments: [] (id=4) (queue=default) FAILED (1 prior attempts) with NoMethodError: undefined method `hostname' for #<String:0x00000004d883b8>
+I, [2020-02-15T13:33:59.194096 #30535]  INFO -- : 2020-02-15T13:33:59-0600: [Worker(host:latveria pid:30535)] 1 jobs processed at 17.4402 j/s, 1 failed
+I, [2020-02-15T13:34:20.219291 #30535]  INFO -- : 2020-02-15T13:34:20-0600: [Worker(host:latveria pid:30535)] Job LeerTemperaturasJob [6b5424cf-813d-4c39-9e0c-2dac0fbf1fb7] from DelayedJob(default) with arguments: [] (id=4) (queue=default) RUNNING
+E, [2020-02-15T13:34:20.223668 #30535] ERROR -- : 2020-02-15T13:34:20-0600: [Worker(host:latveria pid:30535)] Job LeerTemperaturasJob [6b5424cf-813d-4c39-9e0c-2dac0fbf1fb7] from DelayedJob(default) with arguments: [] (id=4) (queue=default) FAILED (2 prior attempts) with NoMethodError: undefined method `hostname' for #<String:0x00000005669478>
+E, [2020-02-15T13:34:20.223747 #30535] ERROR -- : 2020-02-15T13:34:20-0600: [Worker(host:latveria pid:30535)] Job LeerTemperaturasJob [6b5424cf-813d-4c39-9e0c-2dac0fbf1fb7] from DelayedJob(default) with arguments: [] (id=4) (queue=default) FAILED permanently because of 3 consecutive failures
+I, [2020-02-15T13:34:20.251802 #30535]  INFO -- : 2020-02-15T13:34:20-0600: [Worker(host:latveria pid:30535)] 1 jobs processed at 14.4043 j/s, 1 failed
+I, [2020-02-15T13:35:13.901991 #30689]  INFO -- : 2020-02-15T13:35:13-0600: [Worker(host:latveria pid:30689)] Starting job worker
+I, [2020-02-15T13:35:19.850998 #30689]  INFO -- : 2020-02-15T13:35:19-0600: [Worker(host:latveria pid:30689)] Job LeerTemperaturasJob [ba26ad21-a3d6-426c-98c4-5042f7764581] from DelayedJob(default) with arguments: [] (id=5) (queue=default) RUNNING
+E, [2020-02-15T13:35:20.115049 #30689] ERROR -- : 2020-02-15T13:35:20-0600: [Worker(host:latveria pid:30689)] Job LeerTemperaturasJob [ba26ad21-a3d6-426c-98c4-5042f7764581] from DelayedJob(default) with arguments: [] (id=5) (queue=default) FAILED (0 prior attempts) with NameError: undefined local variable or method `response' for #<LeerTemperaturasJob:0x0000000507ec98>
+Did you mean?  respond_to?
+I, [2020-02-15T13:35:20.149024 #30689]  INFO -- : 2020-02-15T13:35:20-0600: [Worker(host:latveria pid:30689)] 1 jobs processed at 3.0001 j/s, 1 failed
+I, [2020-02-15T13:35:24.392064 #30712]  INFO -- : 2020-02-15T13:35:24-0600: [Worker(host:latveria pid:30712)] Starting job worker
+I, [2020-02-15T13:35:26.147210 #30712]  INFO -- : 2020-02-15T13:35:26-0600: [Worker(host:latveria pid:30712)] Job LeerTemperaturasJob [ba26ad21-a3d6-426c-98c4-5042f7764581] from DelayedJob(default) with arguments: [] (id=5) (queue=default) RUNNING
+E, [2020-02-15T13:35:26.495893 #30712] ERROR -- : 2020-02-15T13:35:26-0600: [Worker(host:latveria pid:30712)] Job LeerTemperaturasJob [ba26ad21-a3d6-426c-98c4-5042f7764581] from DelayedJob(default) with arguments: [] (id=5) (queue=default) FAILED (1 prior attempts) with NameError: undefined local variable or method `response' for #<LeerTemperaturasJob:0x00000004b50c58>
+Did you mean?  respond_to?
+I, [2020-02-15T13:35:26.526503 #30712]  INFO -- : 2020-02-15T13:35:26-0600: [Worker(host:latveria pid:30712)] 1 jobs processed at 2.4576 j/s, 1 failed
+I, [2020-02-15T13:35:48.637618 #30748]  INFO -- : 2020-02-15T13:35:48-0600: [Worker(host:latveria pid:30748)] Starting job worker
+I, [2020-02-15T13:35:48.672128 #30748]  INFO -- : 2020-02-15T13:35:48-0600: [Worker(host:latveria pid:30748)] Job LeerTemperaturasJob [c6e133a0-a55f-48b7-bc6d-060c5c2797c4] from DelayedJob(default) with arguments: [] (id=6) (queue=default) RUNNING
+E, [2020-02-15T13:35:48.953779 #30748] ERROR -- : 2020-02-15T13:35:48-0600: [Worker(host:latveria pid:30748)] Job LeerTemperaturasJob [c6e133a0-a55f-48b7-bc6d-060c5c2797c4] from DelayedJob(default) with arguments: [] (id=6) (queue=default) FAILED (0 prior attempts) with NoMethodError: undefined method `code' for "{\"cod\":\"404\",\"message\":\"Internal error\"}":String
+Did you mean?  encode
+I, [2020-02-15T13:35:49.018132 #30748]  INFO -- : 2020-02-15T13:35:49-0600: [Worker(host:latveria pid:30748)] Job LeerTemperaturasJob [ba26ad21-a3d6-426c-98c4-5042f7764581] from DelayedJob(default) with arguments: [] (id=5) (queue=default) RUNNING
+E, [2020-02-15T13:35:49.267528 #30748] ERROR -- : 2020-02-15T13:35:49-0600: [Worker(host:latveria pid:30748)] Job LeerTemperaturasJob [ba26ad21-a3d6-426c-98c4-5042f7764581] from DelayedJob(default) with arguments: [] (id=5) (queue=default) FAILED (2 prior attempts) with NoMethodError: undefined method `code' for "{\"cod\":\"404\",\"message\":\"Internal error\"}":String
+Did you mean?  encode
+E, [2020-02-15T13:35:49.267796 #30748] ERROR -- : 2020-02-15T13:35:49-0600: [Worker(host:latveria pid:30748)] Job LeerTemperaturasJob [ba26ad21-a3d6-426c-98c4-5042f7764581] from DelayedJob(default) with arguments: [] (id=5) (queue=default) FAILED permanently because of 3 consecutive failures
+I, [2020-02-15T13:35:49.292376 #30748]  INFO -- : 2020-02-15T13:35:49-0600: [Worker(host:latveria pid:30748)] 2 jobs processed at 3.0562 j/s, 2 failed
+I, [2020-02-15T13:35:54.971736 #30748]  INFO -- : 2020-02-15T13:35:54-0600: [Worker(host:latveria pid:30748)] Job LeerTemperaturasJob [c6e133a0-a55f-48b7-bc6d-060c5c2797c4] from DelayedJob(default) with arguments: [] (id=6) (queue=default) RUNNING
+E, [2020-02-15T13:35:55.269454 #30748] ERROR -- : 2020-02-15T13:35:55-0600: [Worker(host:latveria pid:30748)] Job LeerTemperaturasJob [c6e133a0-a55f-48b7-bc6d-060c5c2797c4] from DelayedJob(default) with arguments: [] (id=6) (queue=default) FAILED (1 prior attempts) with NoMethodError: undefined method `code' for "{\"cod\":\"404\",\"message\":\"Internal error\"}":String
+Did you mean?  encode
+I, [2020-02-15T13:35:55.299676 #30748]  INFO -- : 2020-02-15T13:35:55-0600: [Worker(host:latveria pid:30748)] 1 jobs processed at 2.9106 j/s, 1 failed
+I, [2020-02-15T13:35:59.264822 #30748]  INFO -- : 2020-02-15T13:35:59-0600: [Worker(host:latveria pid:30748)] Exiting...
+I, [2020-02-15T13:41:37.936363 #31457]  INFO -- : 2020-02-15T13:41:37-0600: [Worker(host:latveria pid:31457)] Starting job worker
+I, [2020-02-15T13:41:37.973805 #31457]  INFO -- : 2020-02-15T13:41:37-0600: [Worker(host:latveria pid:31457)] Job LeerTemperaturasJob [c6e133a0-a55f-48b7-bc6d-060c5c2797c4] from DelayedJob(default) with arguments: [] (id=6) (queue=default) RUNNING
+E, [2020-02-15T13:41:39.028535 #31457] ERROR -- : 2020-02-15T13:41:39-0600: [Worker(host:latveria pid:31457)] Job LeerTemperaturasJob [c6e133a0-a55f-48b7-bc6d-060c5c2797c4] from DelayedJob(default) with arguments: [] (id=6) (queue=default) FAILED (2 prior attempts) with NoMethodError: undefined method `code' for #<String:0x0000000549ce10>
+Did you mean?  encode
+E, [2020-02-15T13:41:39.028961 #31457] ERROR -- : 2020-02-15T13:41:39-0600: [Worker(host:latveria pid:31457)] Job LeerTemperaturasJob [c6e133a0-a55f-48b7-bc6d-060c5c2797c4] from DelayedJob(default) with arguments: [] (id=6) (queue=default) FAILED permanently because of 3 consecutive failures
+I, [2020-02-15T13:41:39.071491 #31457]  INFO -- : 2020-02-15T13:41:39-0600: [Worker(host:latveria pid:31457)] Job LeerTemperaturasJob [a64d9305-652f-4de8-84f9-3ab993f2db39] from DelayedJob(default) with arguments: [] (id=7) (queue=default) RUNNING
+E, [2020-02-15T13:41:39.962031 #31457] ERROR -- : 2020-02-15T13:41:39-0600: [Worker(host:latveria pid:31457)] Job LeerTemperaturasJob [a64d9305-652f-4de8-84f9-3ab993f2db39] from DelayedJob(default) with arguments: [] (id=7) (queue=default) FAILED (0 prior attempts) with NoMethodError: undefined method `code' for #<String:0x000000027345e0>
+Did you mean?  encode
+I, [2020-02-15T13:41:39.993516 #31457]  INFO -- : 2020-02-15T13:41:39-0600: [Worker(host:latveria pid:31457)] 2 jobs processed at 0.9723 j/s, 2 failed
+I, [2020-02-15T13:41:45.989356 #31457]  INFO -- : 2020-02-15T13:41:45-0600: [Worker(host:latveria pid:31457)] Job LeerTemperaturasJob [a64d9305-652f-4de8-84f9-3ab993f2db39] from DelayedJob(default) with arguments: [] (id=7) (queue=default) RUNNING
+E, [2020-02-15T13:41:46.887737 #31457] ERROR -- : 2020-02-15T13:41:46-0600: [Worker(host:latveria pid:31457)] Job LeerTemperaturasJob [a64d9305-652f-4de8-84f9-3ab993f2db39] from DelayedJob(default) with arguments: [] (id=7) (queue=default) FAILED (1 prior attempts) with NoMethodError: undefined method `code' for #<String:0x000000050af1e0>
+Did you mean?  encode
+I, [2020-02-15T13:41:46.909152 #31457]  INFO -- : 2020-02-15T13:41:46-0600: [Worker(host:latveria pid:31457)] 1 jobs processed at 1.0612 j/s, 1 failed
+I, [2020-02-15T13:42:07.909148 #31457]  INFO -- : 2020-02-15T13:42:07-0600: [Worker(host:latveria pid:31457)] Job LeerTemperaturasJob [a64d9305-652f-4de8-84f9-3ab993f2db39] from DelayedJob(default) with arguments: [] (id=7) (queue=default) RUNNING
+E, [2020-02-15T13:42:08.819533 #31457] ERROR -- : 2020-02-15T13:42:08-0600: [Worker(host:latveria pid:31457)] Job LeerTemperaturasJob [a64d9305-652f-4de8-84f9-3ab993f2db39] from DelayedJob(default) with arguments: [] (id=7) (queue=default) FAILED (2 prior attempts) with NoMethodError: undefined method `code' for #<String:0x007f74e4045140>
+Did you mean?  encode
+E, [2020-02-15T13:42:08.819724 #31457] ERROR -- : 2020-02-15T13:42:08-0600: [Worker(host:latveria pid:31457)] Job LeerTemperaturasJob [a64d9305-652f-4de8-84f9-3ab993f2db39] from DelayedJob(default) with arguments: [] (id=7) (queue=default) FAILED permanently because of 3 consecutive failures
+I, [2020-02-15T13:42:08.843739 #31457]  INFO -- : 2020-02-15T13:42:08-0600: [Worker(host:latveria pid:31457)] 1 jobs processed at 1.0489 j/s, 1 failed
+I, [2020-02-15T13:42:20.080622 #31457]  INFO -- : 2020-02-15T13:42:20-0600: [Worker(host:latveria pid:31457)] Exiting...
+I, [2020-02-15T13:42:26.434305 #31569]  INFO -- : 2020-02-15T13:42:26-0600: [Worker(host:latveria pid:31569)] Starting job worker
+I, [2020-02-15T13:42:44.378642 #31593]  INFO -- : 2020-02-15T13:42:44-0600: [Worker(host:latveria pid:31593)] Starting job worker
+I, [2020-02-15T13:42:44.409010 #31593]  INFO -- : 2020-02-15T13:42:44-0600: [Worker(host:latveria pid:31593)] Job LeerTemperaturasJob [00ea9c7e-6698-4a42-b54c-aa0cda68de6b] from DelayedJob(default) with arguments: [] (id=8) (queue=default) RUNNING
+I, [2020-02-15T13:42:45.472745 #31593]  INFO -- : 2020-02-15T13:42:45-0600: [Worker(host:latveria pid:31593)] Job LeerTemperaturasJob [00ea9c7e-6698-4a42-b54c-aa0cda68de6b] from DelayedJob(default) with arguments: [] (id=8) (queue=default) COMPLETED after 1.0632
+I, [2020-02-15T13:42:45.476455 #31593]  INFO -- : 2020-02-15T13:42:45-0600: [Worker(host:latveria pid:31593)] 1 jobs processed at 0.9111 j/s, 0 failed
+I, [2020-02-15T13:43:23.879102 #31670]  INFO -- : 2020-02-15T13:43:23-0600: [Worker(host:latveria pid:31670)] Starting job worker
+I, [2020-02-15T13:43:23.917754 #31670]  INFO -- : 2020-02-15T13:43:23-0600: [Worker(host:latveria pid:31670)] Job LeerTemperaturasJob [52c9576c-ed5d-41f1-9e1e-6b6b67a4e04b] from DelayedJob(default) with arguments: [] (id=9) (queue=default) RUNNING
+I, [2020-02-15T13:43:24.833459 #31670]  INFO -- : 2020-02-15T13:43:24-0600: [Worker(host:latveria pid:31670)] Job LeerTemperaturasJob [52c9576c-ed5d-41f1-9e1e-6b6b67a4e04b] from DelayedJob(default) with arguments: [] (id=9) (queue=default) COMPLETED after 0.9155
+I, [2020-02-15T13:43:24.836197 #31670]  INFO -- : 2020-02-15T13:43:24-0600: [Worker(host:latveria pid:31670)] 1 jobs processed at 1.0452 j/s, 0 failed
+I, [2020-02-15T13:43:40.000105 #31670]  INFO -- : 2020-02-15T13:43:40-0600: [Worker(host:latveria pid:31670)] Job LeerTemperaturasJob [706ebf8a-1fd6-40e3-92f6-6e5dc703a108] from DelayedJob(default) with arguments: [] (id=10) (queue=default) RUNNING
+I, [2020-02-15T13:43:40.279558 #31670]  INFO -- : 2020-02-15T13:43:40-0600: [Worker(host:latveria pid:31670)] Job LeerTemperaturasJob [706ebf8a-1fd6-40e3-92f6-6e5dc703a108] from DelayedJob(default) with arguments: [] (id=10) (queue=default) COMPLETED after 0.2790
+I, [2020-02-15T13:43:40.283343 #31670]  INFO -- : 2020-02-15T13:43:40-0600: [Worker(host:latveria pid:31670)] 1 jobs processed at 3.3358 j/s, 0 failed
+I, [2020-02-15T13:43:44.614266 #31696]  INFO -- : 2020-02-15T13:43:44-0600: [Worker(host:latveria pid:31696)] Starting job worker
+I, [2020-02-15T13:43:54.218176 #31696]  INFO -- : 2020-02-15T13:43:54-0600: [Worker(host:latveria pid:31696)] Job LeerTemperaturasJob [4e49c4d0-b31e-4abc-b097-38c3324f4fbb] from DelayedJob(default) with arguments: [] (id=11) (queue=default) RUNNING
+I, [2020-02-15T13:43:54.499816 #31696]  INFO -- : 2020-02-15T13:43:54-0600: [Worker(host:latveria pid:31696)] Job LeerTemperaturasJob [4e49c4d0-b31e-4abc-b097-38c3324f4fbb] from DelayedJob(default) with arguments: [] (id=11) (queue=default) COMPLETED after 0.2792
+I, [2020-02-15T13:43:54.502129 #31696]  INFO -- : 2020-02-15T13:43:54-0600: [Worker(host:latveria pid:31696)] 1 jobs processed at 3.1417 j/s, 0 failed
+I, [2020-02-15T13:44:00.328604 #31752]  INFO -- : 2020-02-15T13:44:00-0600: [Worker(host:latveria pid:31752)] Starting job worker
+I, [2020-02-15T13:44:46.120146 #31791]  INFO -- : 2020-02-15T13:44:46-0600: [Worker(host:latveria pid:31791)] Starting job worker
+I, [2020-02-15T13:44:49.094535 #31791]  INFO -- : 2020-02-15T13:44:49-0600: [Worker(host:latveria pid:31791)] Job LeerTemperaturasJob [6634522c-8b16-4c57-8c67-273d37e07185] from DelayedJob(default) with arguments: [] (id=12) (queue=default) RUNNING
+I, [2020-02-15T13:44:51.523757 #31791]  INFO -- : 2020-02-15T13:44:51-0600: [Worker(host:latveria pid:31791)] Job LeerTemperaturasJob [6634522c-8b16-4c57-8c67-273d37e07185] from DelayedJob(default) with arguments: [] (id=12) (queue=default) COMPLETED after 2.4289
+I, [2020-02-15T13:44:51.528164 #31791]  INFO -- : 2020-02-15T13:44:51-0600: [Worker(host:latveria pid:31791)] 1 jobs processed at 0.4010 j/s, 0 failed
+I, [2020-02-15T13:46:35.022318 #31791]  INFO -- : 2020-02-15T13:46:35-0600: [Worker(host:latveria pid:31791)] Exiting...
+I, [2020-02-15T13:46:42.785793 #31958]  INFO -- : 2020-02-15T13:46:42-0600: [Worker(host:latveria pid:31958)] Starting job worker
+I, [2020-02-15T13:46:42.814695 #31958]  INFO -- : 2020-02-15T13:46:42-0600: [Worker(host:latveria pid:31958)] Job LeerTemperaturasJob [ea17f2aa-2730-41d3-8500-07a57c3d6962] from DelayedJob(default) with arguments: [] (id=13) (queue=default) RUNNING
+E, [2020-02-15T13:46:42.829558 #31958] ERROR -- : 2020-02-15T13:46:42-0600: [Worker(host:latveria pid:31958)] Job LeerTemperaturasJob [ea17f2aa-2730-41d3-8500-07a57c3d6962] from DelayedJob(default) with arguments: [] (id=13) (queue=default) FAILED (0 prior attempts) with NoMethodError: undefined method `hostname' for #<String:0x00000005aa6ef0>
+I, [2020-02-15T13:46:42.850110 #31958]  INFO -- : 2020-02-15T13:46:42-0600: [Worker(host:latveria pid:31958)] 1 jobs processed at 15.5932 j/s, 1 failed
+I, [2020-02-15T13:46:48.857784 #31958]  INFO -- : 2020-02-15T13:46:48-0600: [Worker(host:latveria pid:31958)] Job LeerTemperaturasJob [ea17f2aa-2730-41d3-8500-07a57c3d6962] from DelayedJob(default) with arguments: [] (id=13) (queue=default) RUNNING
+E, [2020-02-15T13:46:48.863621 #31958] ERROR -- : 2020-02-15T13:46:48-0600: [Worker(host:latveria pid:31958)] Job LeerTemperaturasJob [ea17f2aa-2730-41d3-8500-07a57c3d6962] from DelayedJob(default) with arguments: [] (id=13) (queue=default) FAILED (1 prior attempts) with NoMethodError: undefined method `hostname' for #<String:0x000000058a38d8>
+I, [2020-02-15T13:46:48.878583 #31958]  INFO -- : 2020-02-15T13:46:48-0600: [Worker(host:latveria pid:31958)] 1 jobs processed at 22.8543 j/s, 1 failed
+I, [2020-02-15T13:47:17.757744 #32040]  INFO -- : 2020-02-15T13:47:17-0600: [Worker(host:latveria pid:32040)] Starting job worker
+I, [2020-02-15T13:47:17.829838 #32040]  INFO -- : 2020-02-15T13:47:17-0600: [Worker(host:latveria pid:32040)] Job LeerTemperaturasJob [ea17f2aa-2730-41d3-8500-07a57c3d6962] from DelayedJob(default) with arguments: [] (id=13) (queue=default) RUNNING
+E, [2020-02-15T13:47:17.838711 #32040] ERROR -- : 2020-02-15T13:47:17-0600: [Worker(host:latveria pid:32040)] Job LeerTemperaturasJob [ea17f2aa-2730-41d3-8500-07a57c3d6962] from DelayedJob(default) with arguments: [] (id=13) (queue=default) FAILED (2 prior attempts) with SyntaxError: /home/ernesto/ProyectosRuby/temperaturas/app/jobs/leer_temperaturas_job.rb:12: syntax error, unexpected tIDENTIFIER, expecting ')'
+    response = Net::HTTP.get_response(uri)
+            ^
+E, [2020-02-15T13:47:17.838889 #32040] ERROR -- : 2020-02-15T13:47:17-0600: [Worker(host:latveria pid:32040)] Job LeerTemperaturasJob [ea17f2aa-2730-41d3-8500-07a57c3d6962] from DelayedJob(default) with arguments: [] (id=13) (queue=default) FAILED permanently because of 3 consecutive failures
+I, [2020-02-15T13:47:17.889196 #32040]  INFO -- : 2020-02-15T13:47:17-0600: [Worker(host:latveria pid:32040)] Job LeerTemperaturasJob [240b7c10-550a-4e3e-8e3b-46b0aed4b877] from DelayedJob(default) with arguments: [] (id=14) (queue=default) RUNNING
+E, [2020-02-15T13:47:17.891714 #32040] ERROR -- : 2020-02-15T13:47:17-0600: [Worker(host:latveria pid:32040)] Job LeerTemperaturasJob [240b7c10-550a-4e3e-8e3b-46b0aed4b877] from DelayedJob(default) with arguments: [] (id=14) (queue=default) FAILED (0 prior attempts) with SyntaxError: /home/ernesto/ProyectosRuby/temperaturas/app/jobs/leer_temperaturas_job.rb:12: syntax error, unexpected tIDENTIFIER, expecting ')'
+    response = Net::HTTP.get_response(uri)
+            ^
+I, [2020-02-15T13:47:17.915385 #32040]  INFO -- : 2020-02-15T13:47:17-0600: [Worker(host:latveria pid:32040)] 2 jobs processed at 12.7070 j/s, 2 failed
+I, [2020-02-15T13:47:23.910185 #32040]  INFO -- : 2020-02-15T13:47:23-0600: [Worker(host:latveria pid:32040)] Job LeerTemperaturasJob [240b7c10-550a-4e3e-8e3b-46b0aed4b877] from DelayedJob(default) with arguments: [] (id=14) (queue=default) RUNNING
+E, [2020-02-15T13:47:23.912920 #32040] ERROR -- : 2020-02-15T13:47:23-0600: [Worker(host:latveria pid:32040)] Job LeerTemperaturasJob [240b7c10-550a-4e3e-8e3b-46b0aed4b877] from DelayedJob(default) with arguments: [] (id=14) (queue=default) FAILED (1 prior attempts) with SyntaxError: /home/ernesto/ProyectosRuby/temperaturas/app/jobs/leer_temperaturas_job.rb:12: syntax error, unexpected tIDENTIFIER, expecting ')'
+    response = Net::HTTP.get_response(uri)
+            ^
+I, [2020-02-15T13:47:23.939592 #32040]  INFO -- : 2020-02-15T13:47:23-0600: [Worker(host:latveria pid:32040)] 1 jobs processed at 21.5309 j/s, 1 failed
+I, [2020-02-15T13:47:33.758395 #32040]  INFO -- : 2020-02-15T13:47:33-0600: [Worker(host:latveria pid:32040)] Exiting...
+I, [2020-02-15T13:47:41.145062 #32068]  INFO -- : 2020-02-15T13:47:41-0600: [Worker(host:latveria pid:32068)] Starting job worker
+I, [2020-02-15T13:47:41.183965 #32068]  INFO -- : 2020-02-15T13:47:41-0600: [Worker(host:latveria pid:32068)] Job LeerTemperaturasJob [89df7527-d72f-44bb-899a-a59193914437] from DelayedJob(default) with arguments: [] (id=15) (queue=default) RUNNING
+I, [2020-02-15T13:47:41.469653 #32068]  INFO -- : 2020-02-15T13:47:41-0600: [Worker(host:latveria pid:32068)] Job LeerTemperaturasJob [89df7527-d72f-44bb-899a-a59193914437] from DelayedJob(default) with arguments: [] (id=15) (queue=default) COMPLETED after 0.2846
+I, [2020-02-15T13:47:41.472870 #32068]  INFO -- : 2020-02-15T13:47:41-0600: [Worker(host:latveria pid:32068)] 1 jobs processed at 3.0540 j/s, 0 failed
+I, [2020-02-15T13:47:44.943403 #32068]  INFO -- : 2020-02-15T13:47:44-0600: [Worker(host:latveria pid:32068)] Job LeerTemperaturasJob [240b7c10-550a-4e3e-8e3b-46b0aed4b877] from DelayedJob(default) with arguments: [] (id=14) (queue=default) RUNNING
+I, [2020-02-15T13:47:45.259469 #32068]  INFO -- : 2020-02-15T13:47:45-0600: [Worker(host:latveria pid:32068)] Job LeerTemperaturasJob [240b7c10-550a-4e3e-8e3b-46b0aed4b877] from DelayedJob(default) with arguments: [] (id=14) (queue=default) COMPLETED after 0.3157
+I, [2020-02-15T13:47:45.262601 #32068]  INFO -- : 2020-02-15T13:47:45-0600: [Worker(host:latveria pid:32068)] 1 jobs processed at 2.9165 j/s, 0 failed
+I, [2020-02-15T13:47:46.232519 #32068]  INFO -- : 2020-02-15T13:47:46-0600: [Worker(host:latveria pid:32068)] Exiting...
+I, [2020-02-15T13:48:08.378819 #32140]  INFO -- : 2020-02-15T13:48:08-0600: [Worker(host:latveria pid:32140)] Starting job worker
+I, [2020-02-15T13:48:08.408707 #32140]  INFO -- : 2020-02-15T13:48:08-0600: [Worker(host:latveria pid:32140)] Job LeerTemperaturasJob [03d97aa1-516f-4034-8e35-0fb8eff745c7] from DelayedJob(default) with arguments: [] (id=16) (queue=default) RUNNING
+I, [2020-02-15T13:48:08.702500 #32140]  INFO -- : 2020-02-15T13:48:08-0600: [Worker(host:latveria pid:32140)] Job LeerTemperaturasJob [03d97aa1-516f-4034-8e35-0fb8eff745c7] from DelayedJob(default) with arguments: [] (id=16) (queue=default) COMPLETED after 0.2935
+I, [2020-02-15T13:48:08.705956 #32140]  INFO -- : 2020-02-15T13:48:08-0600: [Worker(host:latveria pid:32140)] 1 jobs processed at 3.0588 j/s, 0 failed
+I, [2020-02-15T13:48:47.413318 #32192]  INFO -- : 2020-02-15T13:48:47-0600: [Worker(host:latveria pid:32192)] Starting job worker
+I, [2020-02-15T13:48:47.453781 #32192]  INFO -- : 2020-02-15T13:48:47-0600: [Worker(host:latveria pid:32192)] Job LeerTemperaturasJob [399bace9-05e6-4a5b-9f21-485ef699bee8] from DelayedJob(default) with arguments: [] (id=17) (queue=default) RUNNING
+I, [2020-02-15T13:48:47.779124 #32192]  INFO -- : 2020-02-15T13:48:47-0600: [Worker(host:latveria pid:32192)] Job LeerTemperaturasJob [399bace9-05e6-4a5b-9f21-485ef699bee8] from DelayedJob(default) with arguments: [] (id=17) (queue=default) COMPLETED after 0.3251
+I, [2020-02-15T13:48:47.781871 #32192]  INFO -- : 2020-02-15T13:48:47-0600: [Worker(host:latveria pid:32192)] 1 jobs processed at 2.7152 j/s, 0 failed
+I, [2020-02-15T13:49:17.479025 #32261]  INFO -- : 2020-02-15T13:49:17-0600: [Worker(host:latveria pid:32261)] Starting job worker
+I, [2020-02-15T13:49:17.511981 #32261]  INFO -- : 2020-02-15T13:49:17-0600: [Worker(host:latveria pid:32261)] Job LeerTemperaturasJob [15a0ebb5-c16c-4ea6-b6cf-b3322e8383eb] from DelayedJob(default) with arguments: [] (id=18) (queue=default) RUNNING
+I, [2020-02-15T13:49:17.842209 #32261]  INFO -- : 2020-02-15T13:49:17-0600: [Worker(host:latveria pid:32261)] Job LeerTemperaturasJob [15a0ebb5-c16c-4ea6-b6cf-b3322e8383eb] from DelayedJob(default) with arguments: [] (id=18) (queue=default) COMPLETED after 0.3300
+I, [2020-02-15T13:49:17.845029 #32261]  INFO -- : 2020-02-15T13:49:17-0600: [Worker(host:latveria pid:32261)] 1 jobs processed at 2.7338 j/s, 0 failed
+I, [2020-02-15T13:51:30.662732 #32428]  INFO -- : 2020-02-15T13:51:30-0600: [Worker(host:latveria pid:32428)] Starting job worker
+I, [2020-02-15T13:51:30.690304 #32428]  INFO -- : 2020-02-15T13:51:30-0600: [Worker(host:latveria pid:32428)] Job LeerTemperaturasJob [faf14ed7-c4c8-4d5d-b97b-88b24a913307] from DelayedJob(default) with arguments: [] (id=19) (queue=default) RUNNING
+I, [2020-02-15T13:51:30.989730 #32428]  INFO -- : 2020-02-15T13:51:30-0600: [Worker(host:latveria pid:32428)] Job LeerTemperaturasJob [faf14ed7-c4c8-4d5d-b97b-88b24a913307] from DelayedJob(default) with arguments: [] (id=19) (queue=default) COMPLETED after 0.2977
+I, [2020-02-15T13:51:30.991350 #32428]  INFO -- : 2020-02-15T13:51:30-0600: [Worker(host:latveria pid:32428)] 1 jobs processed at 3.0443 j/s, 0 failed
+I, [2020-02-15T13:59:54.819816 #32428]  INFO -- : 2020-02-15T13:59:54-0600: [Worker(host:latveria pid:32428)] Exiting...
+I, [2020-02-15T14:01:41.364904 #954]  INFO -- : 2020-02-15T14:01:41-0600: [Worker(host:latveria pid:954)] Starting job worker
+I, [2020-02-15T14:01:41.395776 #954]  INFO -- : 2020-02-15T14:01:41-0600: [Worker(host:latveria pid:954)] Job LeerTemperaturasJob [76397313-ba14-4d84-9ffc-db7045100a2a] from DelayedJob(default) with arguments: [] (id=20) (queue=default) RUNNING
+E, [2020-02-15T14:01:41.407975 #954] ERROR -- : 2020-02-15T14:01:41-0600: [Worker(host:latveria pid:954)] Job LeerTemperaturasJob [76397313-ba14-4d84-9ffc-db7045100a2a] from DelayedJob(default) with arguments: [] (id=20) (queue=default) FAILED (0 prior attempts) with ArgumentError: wrong number of arguments (given 0, expected 1)
+I, [2020-02-15T14:01:41.436466 #954]  INFO -- : 2020-02-15T14:01:41-0600: [Worker(host:latveria pid:954)] 1 jobs processed at 14.0012 j/s, 1 failed
+I, [2020-02-15T14:01:47.432622 #954]  INFO -- : 2020-02-15T14:01:47-0600: [Worker(host:latveria pid:954)] Job LeerTemperaturasJob [76397313-ba14-4d84-9ffc-db7045100a2a] from DelayedJob(default) with arguments: [] (id=20) (queue=default) RUNNING
+E, [2020-02-15T14:01:47.435626 #954] ERROR -- : 2020-02-15T14:01:47-0600: [Worker(host:latveria pid:954)] Job LeerTemperaturasJob [76397313-ba14-4d84-9ffc-db7045100a2a] from DelayedJob(default) with arguments: [] (id=20) (queue=default) FAILED (1 prior attempts) with ArgumentError: wrong number of arguments (given 0, expected 1)
+I, [2020-02-15T14:01:47.452910 #954]  INFO -- : 2020-02-15T14:01:47-0600: [Worker(host:latveria pid:954)] 1 jobs processed at 23.1596 j/s, 1 failed
+I, [2020-02-15T14:02:08.458647 #954]  INFO -- : 2020-02-15T14:02:08-0600: [Worker(host:latveria pid:954)] Job LeerTemperaturasJob [76397313-ba14-4d84-9ffc-db7045100a2a] from DelayedJob(default) with arguments: [] (id=20) (queue=default) RUNNING
+E, [2020-02-15T14:02:08.460541 #954] ERROR -- : 2020-02-15T14:02:08-0600: [Worker(host:latveria pid:954)] Job LeerTemperaturasJob [76397313-ba14-4d84-9ffc-db7045100a2a] from DelayedJob(default) with arguments: [] (id=20) (queue=default) FAILED (2 prior attempts) with ArgumentError: wrong number of arguments (given 0, expected 1)
+E, [2020-02-15T14:02:08.460628 #954] ERROR -- : 2020-02-15T14:02:08-0600: [Worker(host:latveria pid:954)] Job LeerTemperaturasJob [76397313-ba14-4d84-9ffc-db7045100a2a] from DelayedJob(default) with arguments: [] (id=20) (queue=default) FAILED permanently because of 3 consecutive failures
+I, [2020-02-15T14:02:08.484374 #954]  INFO -- : 2020-02-15T14:02:08-0600: [Worker(host:latveria pid:954)] 1 jobs processed at 21.9627 j/s, 1 failed
+I, [2020-02-15T14:02:58.707697 #954]  INFO -- : 2020-02-15T14:02:58-0600: [Worker(host:latveria pid:954)] Job LeerTemperaturasJob [8e7a5198-cd6e-47c8-998d-d0ac5af4ca4d] from DelayedJob(default) with arguments: [{"_aj_globalid"=>"gid://temperaturas-rails/Temperatura/1"}] (id=21) (queue=default) RUNNING
+E, [2020-02-15T14:02:59.019735 #954] ERROR -- : 2020-02-15T14:02:59-0600: [Worker(host:latveria pid:954)] Job LeerTemperaturasJob [8e7a5198-cd6e-47c8-998d-d0ac5af4ca4d] from DelayedJob(default) with arguments: [{"_aj_globalid"=>"gid://temperaturas-rails/Temperatura/1"}] (id=21) (queue=default) FAILED (0 prior attempts) with NoMethodError: undefined method `now' for Date:Class
+Did you mean?  new
+I, [2020-02-15T14:02:59.038692 #954]  INFO -- : 2020-02-15T14:02:59-0600: [Worker(host:latveria pid:954)] 1 jobs processed at 2.8479 j/s, 1 failed
+I, [2020-02-15T14:03:04.378321 #1119]  INFO -- : 2020-02-15T14:03:04-0600: [Worker(host:latveria pid:1119)] Starting job worker
+I, [2020-02-15T14:03:05.065656 #1119]  INFO -- : 2020-02-15T14:03:05-0600: [Worker(host:latveria pid:1119)] Job LeerTemperaturasJob [8e7a5198-cd6e-47c8-998d-d0ac5af4ca4d] from DelayedJob(default) with arguments: [{"_aj_globalid"=>"gid://temperaturas-rails/Temperatura/1"}] (id=21) (queue=default) RUNNING
+E, [2020-02-15T14:03:10.518720 #1119] ERROR -- : 2020-02-15T14:03:10-0600: [Worker(host:latveria pid:1119)] Job LeerTemperaturasJob [8e7a5198-cd6e-47c8-998d-d0ac5af4ca4d] from DelayedJob(default) with arguments: [{"_aj_globalid"=>"gid://temperaturas-rails/Temperatura/1"}] (id=21) (queue=default) FAILED (1 prior attempts) with NoMethodError: undefined method `now' for Date:Class
+Did you mean?  new
+I, [2020-02-15T14:03:10.545745 #1119]  INFO -- : 2020-02-15T14:03:10-0600: [Worker(host:latveria pid:1119)] 1 jobs processed at 0.1811 j/s, 1 failed
+I, [2020-02-15T14:03:31.546615 #1119]  INFO -- : 2020-02-15T14:03:31-0600: [Worker(host:latveria pid:1119)] Job LeerTemperaturasJob [8e7a5198-cd6e-47c8-998d-d0ac5af4ca4d] from DelayedJob(default) with arguments: [{"_aj_globalid"=>"gid://temperaturas-rails/Temperatura/1"}] (id=21) (queue=default) RUNNING
+E, [2020-02-15T14:03:33.779587 #1119] ERROR -- : 2020-02-15T14:03:33-0600: [Worker(host:latveria pid:1119)] Job LeerTemperaturasJob [8e7a5198-cd6e-47c8-998d-d0ac5af4ca4d] from DelayedJob(default) with arguments: [{"_aj_globalid"=>"gid://temperaturas-rails/Temperatura/1"}] (id=21) (queue=default) FAILED (2 prior attempts) with NoMethodError: undefined method `now' for Date:Class
+Did you mean?  new
+E, [2020-02-15T14:03:33.779681 #1119] ERROR -- : 2020-02-15T14:03:33-0600: [Worker(host:latveria pid:1119)] Job LeerTemperaturasJob [8e7a5198-cd6e-47c8-998d-d0ac5af4ca4d] from DelayedJob(default) with arguments: [{"_aj_globalid"=>"gid://temperaturas-rails/Temperatura/1"}] (id=21) (queue=default) FAILED permanently because of 3 consecutive failures
+I, [2020-02-15T14:03:33.804117 #1119]  INFO -- : 2020-02-15T14:03:33-0600: [Worker(host:latveria pid:1119)] 1 jobs processed at 0.4381 j/s, 1 failed
+I, [2020-02-15T14:03:57.112245 #1190]  INFO -- : 2020-02-15T14:03:57-0600: [Worker(host:latveria pid:1190)] Starting job worker
+I, [2020-02-15T14:03:57.147309 #1190]  INFO -- : 2020-02-15T14:03:57-0600: [Worker(host:latveria pid:1190)] Job LeerTemperaturasJob [e12591b9-3076-45de-a3f4-18033793496e] from DelayedJob(default) with arguments: [{"_aj_globalid"=>"gid://temperaturas-rails/Temperatura/1"}] (id=22) (queue=default) RUNNING
+I, [2020-02-15T14:03:57.465037 #1190]  INFO -- : 2020-02-15T14:03:57-0600: [Worker(host:latveria pid:1190)] Job LeerTemperaturasJob [e12591b9-3076-45de-a3f4-18033793496e] from DelayedJob(default) with arguments: [{"_aj_globalid"=>"gid://temperaturas-rails/Temperatura/1"}] (id=22) (queue=default) COMPLETED after 0.3163
+I, [2020-02-15T14:03:57.467580 #1190]  INFO -- : 2020-02-15T14:03:57-0600: [Worker(host:latveria pid:1190)] 1 jobs processed at 2.8157 j/s, 0 failed
+I, [2020-02-15T14:08:42.379519 #1642]  INFO -- : 2020-02-15T14:08:42-0600: [Worker(host:latveria pid:1642)] Starting job worker
+I, [2020-02-15T14:08:42.417231 #1642]  INFO -- : 2020-02-15T14:08:42-0600: [Worker(host:latveria pid:1642)] Job LeerTemperaturasJob [187183fa-1cd0-49a4-a75f-0d5aeecc73ac] from DelayedJob(default) with arguments: [{"_aj_globalid"=>"gid://temperaturas-rails/Temperatura/1"}] (id=1) (queue=default) RUNNING
+I, [2020-02-15T14:08:42.780527 #1642]  INFO -- : 2020-02-15T14:08:42-0600: [Worker(host:latveria pid:1642)] Job LeerTemperaturasJob [187183fa-1cd0-49a4-a75f-0d5aeecc73ac] from DelayedJob(default) with arguments: [{"_aj_globalid"=>"gid://temperaturas-rails/Temperatura/1"}] (id=1) (queue=default) COMPLETED after 0.3631
+I, [2020-02-15T14:08:42.782162 #1642]  INFO -- : 2020-02-15T14:08:42-0600: [Worker(host:latveria pid:1642)] 1 jobs processed at 2.4844 j/s, 0 failed
+I, [2020-02-15T14:13:30.080158 #1642]  INFO -- : 2020-02-15T14:13:30-0600: [Worker(host:latveria pid:1642)] Job LeerTemperaturasJob [3a860c92-5fe7-419a-ac39-b7c97c7ad61f] from DelayedJob(default) with arguments: [{"_aj_globalid"=>"gid://temperaturas-rails/Temperatura/1"}] (id=2) (queue=default) RUNNING
+I, [2020-02-15T14:13:30.418562 #1642]  INFO -- : 2020-02-15T14:13:30-0600: [Worker(host:latveria pid:1642)] Job LeerTemperaturasJob [3a860c92-5fe7-419a-ac39-b7c97c7ad61f] from DelayedJob(default) with arguments: [{"_aj_globalid"=>"gid://temperaturas-rails/Temperatura/1"}] (id=2) (queue=default) COMPLETED after 0.3382
+I, [2020-02-15T14:13:30.419839 #1642]  INFO -- : 2020-02-15T14:13:30-0600: [Worker(host:latveria pid:1642)] 1 jobs processed at 2.6256 j/s, 0 failed
+I, [2020-02-15T14:13:35.808100 #2384]  INFO -- : 2020-02-15T14:13:35-0600: [Worker(host:latveria pid:2384)] Starting job worker
+I, [2020-02-15T14:19:00.533815 #2384]  INFO -- : 2020-02-15T14:19:00-0600: [Worker(host:latveria pid:2384)] Exiting...
+I, [2020-02-15T14:19:09.521389 #2955]  INFO -- : 2020-02-15T14:19:09-0600: [Worker(host:latveria pid:2955)] Starting job worker
+I, [2020-02-15T14:19:09.556074 #2955]  INFO -- : 2020-02-15T14:19:09-0600: [Worker(host:latveria pid:2955)] Job LeerTemperaturasJob [07bd2299-601d-4acf-98ea-d8bd5c7602bd] from DelayedJob(default) with arguments: [{"_aj_globalid"=>"gid://temperaturas-rails/Temperatura/1"}] (id=3) (queue=default) RUNNING
+I, [2020-02-15T14:19:09.897264 #2955]  INFO -- : 2020-02-15T14:19:09-0600: [Worker(host:latveria pid:2955)] Job LeerTemperaturasJob [07bd2299-601d-4acf-98ea-d8bd5c7602bd] from DelayedJob(default) with arguments: [{"_aj_globalid"=>"gid://temperaturas-rails/Temperatura/1"}] (id=3) (queue=default) COMPLETED after 0.3373
+I, [2020-02-15T14:19:09.899653 #2955]  INFO -- : 2020-02-15T14:19:09-0600: [Worker(host:latveria pid:2955)] 1 jobs processed at 2.6451 j/s, 0 failed
+I, [2020-02-15T14:50:10.456369 #2955]  INFO -- : 2020-02-15T14:50:10-0600: [Worker(host:latveria pid:2955)] Exiting...
+I, [2020-02-15T14:50:13.429770 #6176]  INFO -- : 2020-02-15T14:50:13-0600: [Worker(host:latveria pid:6176)] Starting job worker
+I, [2020-02-15T14:50:13.470401 #6176]  INFO -- : 2020-02-15T14:50:13-0600: [Worker(host:latveria pid:6176)] Job LeerTemperaturasJob [73e5316a-2efd-4310-b750-8c73bb056415] from DelayedJob(default) with arguments: [{"_aj_globalid"=>"gid://temperaturas-rails/Temperatura/1"}] (id=4) (queue=default) RUNNING
+I, [2020-02-15T14:50:14.685067 #6176]  INFO -- : 2020-02-15T14:50:14-0600: [Worker(host:latveria pid:6176)] Job LeerTemperaturasJob [73e5316a-2efd-4310-b750-8c73bb056415] from DelayedJob(default) with arguments: [{"_aj_globalid"=>"gid://temperaturas-rails/Temperatura/1"}] (id=4) (queue=default) COMPLETED after 1.2142
+I, [2020-02-15T14:50:14.687571 #6176]  INFO -- : 2020-02-15T14:50:14-0600: [Worker(host:latveria pid:6176)] 1 jobs processed at 0.7952 j/s, 0 failed

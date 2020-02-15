@@ -1,0 +1,18 @@
+
+
+<table>
+<tr>
+<td>Registro</td>
+<td>Temperatura</td>
+<td>Temperatura Minima</td>
+<td>Temperatura Maxima</td>
+</tr>
+<% @temperaturas.each do |temp| %>
+<tr>
+  <td><%=temp.registro%></td>
+  <td><%=temp.temperatura%></td>
+  <td><%=temp.minima%></td>
+  <td><%=temp.maxima%></td>
+</tr>
+<% end %>
+</table>
